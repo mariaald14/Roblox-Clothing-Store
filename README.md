@@ -9,3 +9,7 @@ Created an in-game clothing store experience that allowed players to preview and
 What originally started as a fun side project unexpectedly became successful over time. Through original clothing designs, promotional graphics, and self-managed advertising strategies, the projects generated over 11,000+ Robux in community payouts and sales activity. Some clothing assets created for the project continue to generate engagement and purchases years after their original release.
 
 Skills demonstrated through this project include Blender rendering, digital asset creation, branding, advertising, entrepreneurship, online monetization, community management, creative design, and user-focused game design.
+
+GROUP LINK: https://www.roblox.com/communities/6806067/Nakima#!/about
+GAME LINK: https://www.roblox.com/games/5908638563/Countem-Homestore
+CLOTHING: https://www.roblox.com/communities/6806067/Nakima#!/store
