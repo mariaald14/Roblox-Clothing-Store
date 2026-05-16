@@ -1,5 +1,4 @@
 # Roblox-Clothing-Store
-# Roblox Clothing Store & Community Project
 
 Created and managed multiple Roblox clothing stores starting at age 15 as a personal hobby project focused on creativity and digital design. Designed and published original clothing collections using Pixlr Editor and created custom Blender GFX renders for icons, thumbnails, advertisements, and promotional banners.
 
