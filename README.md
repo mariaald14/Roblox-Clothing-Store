@@ -11,5 +11,7 @@ What originally started as a fun side project unexpectedly became successful ove
 Skills demonstrated through this project include Blender rendering, digital asset creation, branding, advertising, entrepreneurship, online monetization, community management, creative design, and user-focused game design.
 
 GROUP LINK: https://www.roblox.com/communities/6806067/Nakima#!/about
+
 GAME LINK: https://www.roblox.com/games/5908638563/Countem-Homestore
+
 CLOTHING: https://www.roblox.com/communities/6806067/Nakima#!/store
